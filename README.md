@@ -16,3 +16,4 @@
 > Задачу надо было оформить так же в Google Таблицах (так было удобнее).
 
 [Пример готовых тест-кейсов в коммерческом проекте](https://docs.google.com/spreadsheets/d/15Dme_3f33aal4EF8LvGVD4fdi4kllbBZEvklmxccXs0/edit?usp=sharing "Тест-кейсы из реального проекта")
+[Пример готовых тест-кейсов - Март 23] (https://docs.google.com/document/d/1hDdJn-Uo1VJOggyj7HFcc_Nfs9_cOiCOe0s9UYrV_FY/edit?usp=sharing "")
